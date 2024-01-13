@@ -22,3 +22,5 @@ I use this site to temporarily archieve datasets for a recent paper: Preventing 
 ![Fig7](https://github.com/bob-Github-2020/Tianjin-New-Pre-Consolidation-Heads/assets/65426380/22fee0ef-969b-4470-870a-e72a1ce27f2d)
 
 ![Fig8](https://github.com/bob-Github-2020/Tianjin-New-Pre-Consolidation-Heads/assets/65426380/64ab8783-0c1d-479e-8b7f-55d694a626fc)
+
+![Fig9](https://github.com/bob-Github-2020/Tianjin-New-Pre-Consolidation-Heads/assets/65426380/e84bfd73-0b22-4bfc-9e5a-7fba5deb4c86)
