@@ -2,10 +2,13 @@
 Mapping New Pre-Consolidation Heads and Safe Pumping Buffers in Tianjin
 
 
-I use this site to archive datasets for a recent paper: Preventing Subsidence Reoccurrence in Tianjin: New Pre-Consolidation Heads and Safe Pumping Buffers.
+I use this site to archive datasets for a recent paper: 
 
-This paper has been published on Groundwater: 
-Wang, K., Wang, G., Bao, Y., Su, G., Wang, Y., Shen, Q., Zhang, Y., & Wang, H. Preventing Subsidence Reoccurrence in Tianjin: New Preconsolidation Head and Safe Pumping Buffer. Groundwater. https://doi.org/10.1111/gwat.13406
+Preventing Subsidence Reoccurrence in Tianjin: New Pre-Consolidation Heads and Safe Pumping Buffers.
+
+Wang, K., Wang, G., Bao, Y., Su, G., Wang, Y., Shen, Q., Zhang, Y., & Wang, H. Preventing Subsidence Reoccurrence in Tianjin: New Preconsolidation Head and Safe Pumping Buffer. Groundwater. 
+
+https://doi.org/10.1111/gwat.13406
 
 [2024_Kuan_Wang_Groundwater_TJ_with_supplement.pdf](https://github.com/bob-Github-2020/Tianjin-New-Pre-Consolidation-Heads/files/15436812/2024_Kuan_Wang_Groundwater_TJ_with_supplement.pdf)
 
